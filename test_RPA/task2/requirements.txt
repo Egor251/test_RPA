@@ -1,0 +1,7 @@
+beautifulsoup4
+lxml
+selenium
+undetected-chromedriver
+pyautogui
+pyperclip
+xlsxwriter
